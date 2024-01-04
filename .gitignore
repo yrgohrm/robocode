@@ -1,0 +1,12 @@
+sample/
+sampleex/
+samplesentry/
+sampleteam/
+robot.database
+
+test/
+yrgoexperiments/
+
+*.class
+
+.vscode/
